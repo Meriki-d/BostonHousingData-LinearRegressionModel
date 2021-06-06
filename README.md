@@ -10,7 +10,7 @@ A linear regression model to predict house value based on the famous boston hous
 * Fork the repository
 * Clone or download repo as zip
     
-    $ git clone 
+    $ git clone https://github.com/Meriki-d/BostonHousingData-LinearRegressionModel.git
     
 * Install libraries in requirements.txt
     
